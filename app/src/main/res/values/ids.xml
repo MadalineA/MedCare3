@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="joinhomebtn" type="id" />
+    <item name="loginbtn" type="id" />
+    <item name="learnmorebtn" type="id" />
+    <item name="login_email" type="id" />
+    <item name="login_password" type="id" />
+</resources>
